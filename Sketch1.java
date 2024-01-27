@@ -1,3 +1,5 @@
+// unused, solo project
+
 import processing.core.PApplet;
 
 public class Sketch1 extends PApplet {
